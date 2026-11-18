@@ -1,7 +1,7 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.18-1514",
+ "version": "2026.11.18-1525",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "files": [
@@ -195,13 +195,6 @@
    "overwrite": true
   },
   {
-   "path": "mods/modmenu-11.0.5.jar",
-   "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/6lgOkclV/modmenu-11.0.5.jar",
-   "sha512": "92e8e96267ff18d320903090f2ad9b32408a218919f5a0d578e232ad774c89d49a34a8271806652be7d6283f24e98432bc4af7f95855e78b843f9100d68696c7",
-   "size": 975846,
-   "overwrite": true
-  },
-  {
    "path": "mods/moonlight-1.21.1-3.8.3-fabric.jar",
    "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/uANIaPO7/moonlight-1.21.1-3.8.3-fabric.jar",
    "sha512": "28451202a73fa1f05b6bdfccc9a2a92f73cdba07059e3ecfd86cb22594a4576ed8c5addff4f318694415ca4a70913bed0845105cc39e8f4ae21bff72cc0a20c2",
@@ -218,8 +211,8 @@
   {
    "path": "mods/newyearloader-0.3.0.jar",
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/newyearloader-0.3.0.jar",
-   "sha512": "5feb1199bf2e4e1e2679bac9bffc58b3012000a412476f9a55297d20fa6a8224ebf2753350e72c05066eaa1225b5036055576a90c6e9a3d44a469b58b0812194",
-   "size": 227901,
+   "sha512": "138df524eef1e9dfc57dac63d4b880ece421f1eb20c4bab48c249e0fc8fab6ce32c6fe4f080864e655a8d8212e9c5dd9d1abefc5006cec07d9af175474e0b0ef",
+   "size": 228262,
    "overwrite": true
   },
   {
@@ -234,13 +227,6 @@
    "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/GBivJmD5/particlerain-4.0.3%2B1.21.1-fabric.jar",
    "sha512": "9b5934f6550055f634a60620ed5230a3cc211b3e3e86876e3b82dbaa7322f700c23dc73516e5c6893b9d45c962e0f25f285501148849b4334007ada56c6da544",
    "size": 627175,
-   "overwrite": true
-  },
-  {
-   "path": "mods/placeholder-api-2.4.2+1.21.jar",
-   "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/U5bhVym2/placeholder-api-2.4.2%2B1.21.jar",
-   "sha512": "fc13d3a5c048dbaab86318edaf8b6c6b46ef9f1d367e8f063d19f5a9b0da66c5ae419d92c8c4608edc89a01eb44d91ffcf017fea73f39b222cbd85e82f70a233",
-   "size": 232325,
    "overwrite": true
   },
   {
