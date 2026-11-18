@@ -1,7 +1,7 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "0.1.0",
+ "version": "2026.11.18-1514",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "files": [
@@ -216,10 +216,10 @@
    "overwrite": true
   },
   {
-   "path": "mods/newyearloader-0.2.0.jar",
-   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/newyearloader-0.2.0.jar",
-   "sha512": "2ba88c458ac4b9cf95819ada9dcfb84389b67700382788e8baf6e1c773879a11dc7374486cd5ee18c48becf74a04734d0354f299a9a90b4d23bcbfdd7dcd4a09",
-   "size": 227354,
+   "path": "mods/newyearloader-0.3.0.jar",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/newyearloader-0.3.0.jar",
+   "sha512": "5feb1199bf2e4e1e2679bac9bffc58b3012000a412476f9a55297d20fa6a8224ebf2753350e72c05066eaa1225b5036055576a90c6e9a3d44a469b58b0812194",
+   "size": 227901,
    "overwrite": true
   },
   {
