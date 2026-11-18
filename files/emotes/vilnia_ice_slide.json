@@ -95,7 +95,7 @@
     "easing": "EASEINOUTSINE",
     "turn": 0,
     "torso": {
-     "pitch": 8.0
+     "pitch": -8.0
     }
    },
    {
@@ -191,7 +191,7 @@
     "easing": "EASEINOUTSINE",
     "turn": 0,
     "torso": {
-     "pitch": 8.0
+     "pitch": -8.0
     }
    },
    {
@@ -287,7 +287,7 @@
     "easing": "EASEINOUTSINE",
     "turn": 0,
     "torso": {
-     "pitch": 8.0
+     "pitch": -8.0
     }
    },
    {
@@ -383,7 +383,7 @@
     "easing": "EASEINOUTSINE",
     "turn": 0,
     "torso": {
-     "pitch": 8.0
+     "pitch": -8.0
     }
    },
    {
@@ -479,7 +479,7 @@
     "easing": "EASEINOUTSINE",
     "turn": 0,
     "torso": {
-     "pitch": 8.0
+     "pitch": -8.0
     }
    },
    {

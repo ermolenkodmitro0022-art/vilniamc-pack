@@ -71,7 +71,7 @@
     "easing": "EASEINOUTSINE",
     "turn": 0,
     "torso": {
-     "pitch": 0.0
+     "pitch": -0.0
     }
    },
    {
@@ -191,7 +191,7 @@
     "easing": "EASEINOUTSINE",
     "turn": 0,
     "torso": {
-     "pitch": 14.0
+     "pitch": -14.0
     }
    },
    {
@@ -255,7 +255,7 @@
     "easing": "EASEINOUTSINE",
     "turn": 0,
     "torso": {
-     "pitch": 0.0
+     "pitch": -0.0
     }
    },
    {
