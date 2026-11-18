@@ -21,3 +21,4 @@ tutorialStep:none
 key_key.mute_microphone:key.keyboard.j
 key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.unknown
+menuBackgroundBlurriness:0
