@@ -1,7 +1,7 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.18-1857",
+ "version": "2026.11.18-1858",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "files": [
@@ -316,8 +316,8 @@
   {
    "path": "mods/vilnia-content-0.1.0.jar",
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/vilnia-content-0.1.0.jar",
-   "sha512": "72a2a21a9a2daad223b3e60f19a71685d139187709f24feddd7faa744d05d4ef6557049a13ebbf0af84e27b446989a2642b03921a2bdd8047d5507440e39abb7",
-   "size": 49415,
+   "sha512": "597c6e5c2645a31b7b558258aa12c1e247468c87ba74a4690da9d36a20aeab1f24a86e4fe88ac49692da13ccd82ba7c02eaf6f32b41493e2a3af0e9f56fe10fb",
+   "size": 51031,
    "overwrite": true
   },
   {
