@@ -1,0 +1,295 @@
+{
+ "name": "Дихати на руки",
+ "author": "VilniaMC",
+ "description": "Зігріває пальці подихом",
+ "emote": {
+  "isLoop": "true",
+  "returnTick": 0,
+  "beginTick": 0,
+  "endTick": 50,
+  "stopTick": 56,
+  "degrees": true,
+  "moves": [
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "pitch": 12.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "pitch": -112.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "roll": 4.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "yaw": 24.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "pitch": -112.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "roll": -4.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "yaw": -24.0
+    }
+   },
+   {
+    "tick": 14,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "pitch": 6.0
+    }
+   },
+   {
+    "tick": 14,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "pitch": -118.0
+    }
+   },
+   {
+    "tick": 14,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "roll": 4.0
+    }
+   },
+   {
+    "tick": 14,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "yaw": 24.0
+    }
+   },
+   {
+    "tick": 14,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "pitch": -118.0
+    }
+   },
+   {
+    "tick": 14,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "roll": -4.0
+    }
+   },
+   {
+    "tick": 14,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "yaw": -24.0
+    }
+   },
+   {
+    "tick": 22,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "pitch": 12.0
+    }
+   },
+   {
+    "tick": 22,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "pitch": -112.0
+    }
+   },
+   {
+    "tick": 22,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "roll": 4.0
+    }
+   },
+   {
+    "tick": 22,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "yaw": 24.0
+    }
+   },
+   {
+    "tick": 22,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "pitch": -112.0
+    }
+   },
+   {
+    "tick": 22,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "roll": -4.0
+    }
+   },
+   {
+    "tick": 22,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "yaw": -24.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "pitch": 6.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "pitch": -118.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "roll": 4.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "yaw": 24.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "pitch": -118.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "roll": -4.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "yaw": -24.0
+    }
+   },
+   {
+    "tick": 50,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "pitch": 12.0
+    }
+   },
+   {
+    "tick": 50,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "pitch": -112.0
+    }
+   },
+   {
+    "tick": 50,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "roll": 4.0
+    }
+   },
+   {
+    "tick": 50,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "yaw": 24.0
+    }
+   },
+   {
+    "tick": 50,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "pitch": -112.0
+    }
+   },
+   {
+    "tick": 50,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "roll": -4.0
+    }
+   },
+   {
+    "tick": 50,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "yaw": -24.0
+    }
+   }
+  ]
+ }
+}

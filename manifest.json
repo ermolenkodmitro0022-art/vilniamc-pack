@@ -1,7 +1,7 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.18-2108",
+ "version": "2026.11.18-2116",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "files": [
@@ -10,6 +10,76 @@
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/config/immediatelyfast.json",
    "sha512": "ead85ee2d366811b652deadb67d71675abaf817731294149e92314efce1d443975edae88b95c763626049e234263296e05f6c895565166d3034857b07477425c",
    "size": 1137,
+   "overwrite": true
+  },
+  {
+   "path": "emotes/vilnia_blow_hands.json",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/emotes/vilnia_blow_hands.json",
+   "sha512": "9a6a20f8926de838d41ce39e746b88592cff19e2539be48bfc8f2fa4fca027e645a1a10bbb6a3d5350abfaf8e7e1ca2e4a5c73442274253d585595df7c45634f",
+   "size": 4571,
+   "overwrite": true
+  },
+  {
+   "path": "emotes/vilnia_catch_flakes.json",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/emotes/vilnia_catch_flakes.json",
+   "sha512": "bec974abad2de69abc614d8889f98d222ffcf4430c76bdc4e803459038e329aa90e524259e35d89cd7e7e2027250ff874e6bea002b8ab25723dbc613c5c702f6",
+   "size": 4554,
+   "overwrite": true
+  },
+  {
+   "path": "emotes/vilnia_cheer.json",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/emotes/vilnia_cheer.json",
+   "sha512": "0e1706340e5d9a3eb571c1ceba2f1cccfed2fff4b9c3489049d7259458f0338015cb26dc8271f830fe3fbc58a323df4a87f584243b60913aa75cda655c110088",
+   "size": 3903,
+   "overwrite": true
+  },
+  {
+   "path": "emotes/vilnia_gift.json",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/emotes/vilnia_gift.json",
+   "sha512": "ca909e7774fefd32aadb197206e92980ec67e3f742c5ff643d995534cb025b346970d7cfe929a94b139ade2472589c4e65f2707acfadf773db3aab642b05c160",
+   "size": 4541,
+   "overwrite": true
+  },
+  {
+   "path": "emotes/vilnia_ice_slide.json",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/emotes/vilnia_ice_slide.json",
+   "sha512": "ac9884cb36006d23300decf66674f10ed06bea69310e3c225d31155ae705c39eb798f2cb0964d9bf948e35ca81e03503333295f4290ca019a26e1d0752f8678f",
+   "size": 7599,
+   "overwrite": true
+  },
+  {
+   "path": "emotes/vilnia_roll_snowball.json",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/emotes/vilnia_roll_snowball.json",
+   "sha512": "c591c394bfd4d3cefdf12a412c760508b05ecde9fd6aa45401bc3cd9d98c84dae154c88e1acdd9edf614a7083798b6773a23952fed1356fa4557e66c48d556ff",
+   "size": 3964,
+   "overwrite": true
+  },
+  {
+   "path": "emotes/vilnia_shiver.json",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/emotes/vilnia_shiver.json",
+   "sha512": "8b09da17b993a4100d833322661d59d895f534c306e7e9af22cfb06ef2016ed4114ad259f8b27293a108df4ad07e54c6681899f0ed2094e8d0d1c132a5edfc44",
+   "size": 7832,
+   "overwrite": true
+  },
+  {
+   "path": "emotes/vilnia_throw_snowball.json",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/emotes/vilnia_throw_snowball.json",
+   "sha512": "0abbedddd66fcaad0d1835765f5ac995b9047e67b2858e2928d68c54b4b1a5e57ffc52d694903bba1e158c00deffbeffb5027f691c44191e4a2c7d19bd9065df",
+   "size": 8175,
+   "overwrite": true
+  },
+  {
+   "path": "emotes/vilnia_tree_dance.json",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/emotes/vilnia_tree_dance.json",
+   "sha512": "c2afc0ef3459f60c96591d7c74b0e1f76ccfb31ede0725e223e3c3807abc4875cbed8d5e4ebfa568d71410209c6a490000f08d60fccb64eabb4c83dd390e8a62",
+   "size": 6985,
+   "overwrite": true
+  },
+  {
+   "path": "emotes/vilnia_warm_hands.json",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/emotes/vilnia_warm_hands.json",
+   "sha512": "a1ca8da35057f7c5130ae737404465eb66bca7606bbef332996254aa69f77d06dec214dc1b8ff88eaf37c1d079f3547b1a50e4ca2d4a1e40bf33cdba9d658e44",
+   "size": 5396,
    "overwrite": true
   },
   {
@@ -316,8 +386,8 @@
   {
    "path": "mods/vilnia-content-0.1.0.jar",
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/vilnia-content-0.1.0.jar",
-   "sha512": "08972e6727f34067be47488268c3119954feeca9f4411933b53c845ea84041f34eb64a9f9a28b58b1e2cb769d2a94c657c3abd78ed11451c89325a23809c5745",
-   "size": 321974,
+   "sha512": "dc891cb45af3f6bb31af9cb9be369890bcaa2e2050e29bd6ba212f3848cfa9e10700ac8ca90a8ff75711ef2b178d11b97549142c20c51792d68aa38b3a9c07cf",
+   "size": 322312,
    "overwrite": true
   },
   {

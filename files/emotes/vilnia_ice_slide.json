@@ -1,0 +1,495 @@
+{
+ "name": "Ковзанка",
+ "author": "VilniaMC",
+ "description": "Ковзає по льоду, ловлячи рівновагу",
+ "emote": {
+  "isLoop": "true",
+  "returnTick": 0,
+  "beginTick": 0,
+  "endTick": 48,
+  "stopTick": 54,
+  "degrees": true,
+  "moves": [
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "pitch": -4.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "roll": -5.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "pitch": -14.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "roll": -64.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftLeg": {
+     "pitch": 8.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftLeg": {
+     "roll": -7.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "pitch": -14.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "roll": 92.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightLeg": {
+     "pitch": -26.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightLeg": {
+     "roll": -7.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "torso": {
+     "pitch": 8.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "torso": {
+     "roll": 7.0
+    }
+   },
+   {
+    "tick": 12,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "pitch": -4.0
+    }
+   },
+   {
+    "tick": 12,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "roll": 0.0
+    }
+   },
+   {
+    "tick": 12,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "pitch": -14.0
+    }
+   },
+   {
+    "tick": 12,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "roll": -78.0
+    }
+   },
+   {
+    "tick": 12,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftLeg": {
+     "pitch": 8.0
+    }
+   },
+   {
+    "tick": 12,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftLeg": {
+     "roll": 0.0
+    }
+   },
+   {
+    "tick": 12,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "pitch": -14.0
+    }
+   },
+   {
+    "tick": 12,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "roll": 78.0
+    }
+   },
+   {
+    "tick": 12,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightLeg": {
+     "pitch": -26.0
+    }
+   },
+   {
+    "tick": 12,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightLeg": {
+     "roll": 0.0
+    }
+   },
+   {
+    "tick": 12,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "torso": {
+     "pitch": 8.0
+    }
+   },
+   {
+    "tick": 12,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "torso": {
+     "roll": 0.0
+    }
+   },
+   {
+    "tick": 24,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "pitch": -4.0
+    }
+   },
+   {
+    "tick": 24,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "roll": 5.0
+    }
+   },
+   {
+    "tick": 24,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "pitch": -14.0
+    }
+   },
+   {
+    "tick": 24,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "roll": -92.0
+    }
+   },
+   {
+    "tick": 24,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftLeg": {
+     "pitch": 8.0
+    }
+   },
+   {
+    "tick": 24,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftLeg": {
+     "roll": 7.0
+    }
+   },
+   {
+    "tick": 24,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "pitch": -14.0
+    }
+   },
+   {
+    "tick": 24,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "roll": 64.0
+    }
+   },
+   {
+    "tick": 24,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightLeg": {
+     "pitch": -26.0
+    }
+   },
+   {
+    "tick": 24,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightLeg": {
+     "roll": 7.0
+    }
+   },
+   {
+    "tick": 24,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "torso": {
+     "pitch": 8.0
+    }
+   },
+   {
+    "tick": 24,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "torso": {
+     "roll": -7.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "pitch": -4.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "roll": 0.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "pitch": -14.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "roll": -78.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftLeg": {
+     "pitch": 8.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftLeg": {
+     "roll": 0.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "pitch": -14.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "roll": 78.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightLeg": {
+     "pitch": -26.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightLeg": {
+     "roll": 0.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "torso": {
+     "pitch": 8.0
+    }
+   },
+   {
+    "tick": 36,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "torso": {
+     "roll": 0.0
+    }
+   },
+   {
+    "tick": 48,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "pitch": -4.0
+    }
+   },
+   {
+    "tick": 48,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "roll": -5.0
+    }
+   },
+   {
+    "tick": 48,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "pitch": -14.0
+    }
+   },
+   {
+    "tick": 48,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "roll": -64.0
+    }
+   },
+   {
+    "tick": 48,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftLeg": {
+     "pitch": 8.0
+    }
+   },
+   {
+    "tick": 48,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftLeg": {
+     "roll": -7.0
+    }
+   },
+   {
+    "tick": 48,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "pitch": -14.0
+    }
+   },
+   {
+    "tick": 48,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "roll": 92.0
+    }
+   },
+   {
+    "tick": 48,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightLeg": {
+     "pitch": -26.0
+    }
+   },
+   {
+    "tick": 48,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightLeg": {
+     "roll": -7.0
+    }
+   },
+   {
+    "tick": 48,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "torso": {
+     "pitch": 8.0
+    }
+   },
+   {
+    "tick": 48,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "torso": {
+     "roll": 7.0
+    }
+   }
+  ]
+ }
+}

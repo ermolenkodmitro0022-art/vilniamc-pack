@@ -1,0 +1,295 @@
+{
+ "name": "Ловити сніжинки",
+ "author": "VilniaMC",
+ "description": "Ловить сніжинки долонею",
+ "emote": {
+  "isLoop": "true",
+  "returnTick": 0,
+  "beginTick": 0,
+  "endTick": 60,
+  "stopTick": 66,
+  "degrees": true,
+  "moves": [
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "pitch": -38.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "yaw": -8.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "pitch": -6.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "roll": -6.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "pitch": -100.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "roll": 6.0
+    }
+   },
+   {
+    "tick": 0,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "yaw": -12.0
+    }
+   },
+   {
+    "tick": 15,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "pitch": -34.0
+    }
+   },
+   {
+    "tick": 15,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "yaw": 2.0
+    }
+   },
+   {
+    "tick": 15,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "pitch": -6.0
+    }
+   },
+   {
+    "tick": 15,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "roll": -6.0
+    }
+   },
+   {
+    "tick": 15,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "pitch": -92.0
+    }
+   },
+   {
+    "tick": 15,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "roll": 6.0
+    }
+   },
+   {
+    "tick": 15,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "yaw": -2.0
+    }
+   },
+   {
+    "tick": 30,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "pitch": -38.0
+    }
+   },
+   {
+    "tick": 30,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "yaw": -8.0
+    }
+   },
+   {
+    "tick": 30,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "pitch": -6.0
+    }
+   },
+   {
+    "tick": 30,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "roll": -6.0
+    }
+   },
+   {
+    "tick": 30,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "pitch": -100.0
+    }
+   },
+   {
+    "tick": 30,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "roll": 6.0
+    }
+   },
+   {
+    "tick": 30,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "yaw": -12.0
+    }
+   },
+   {
+    "tick": 45,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "pitch": -42.0
+    }
+   },
+   {
+    "tick": 45,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "yaw": -18.0
+    }
+   },
+   {
+    "tick": 45,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "pitch": -6.0
+    }
+   },
+   {
+    "tick": 45,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "roll": -6.0
+    }
+   },
+   {
+    "tick": 45,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "pitch": -108.0
+    }
+   },
+   {
+    "tick": 45,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "roll": 6.0
+    }
+   },
+   {
+    "tick": 45,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "yaw": -22.0
+    }
+   },
+   {
+    "tick": 60,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "pitch": -38.0
+    }
+   },
+   {
+    "tick": 60,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "head": {
+     "yaw": -8.0
+    }
+   },
+   {
+    "tick": 60,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "pitch": -6.0
+    }
+   },
+   {
+    "tick": 60,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "leftArm": {
+     "roll": -6.0
+    }
+   },
+   {
+    "tick": 60,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "pitch": -100.0
+    }
+   },
+   {
+    "tick": 60,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "roll": 6.0
+    }
+   },
+   {
+    "tick": 60,
+    "easing": "EASEINOUTSINE",
+    "turn": 0,
+    "rightArm": {
+     "yaw": -12.0
+    }
+   }
+  ]
+ }
+}
