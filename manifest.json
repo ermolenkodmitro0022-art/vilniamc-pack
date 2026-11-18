@@ -217,9 +217,9 @@
   },
   {
    "path": "mods/newyearloader-0.2.0.jar",
-   "url": "https://raw.githubusercontent.com/puccoooopapa-droid/vilniamc-pack/main/files/mods/newyearloader-0.2.0.jar",
-   "sha512": "78fd3359ed44278e83c192306b3ea0e82139544b480d7aaa5344a05bbef841dc1101668b67640e7b66257eaf9f907062322c22cd4a2021efc518b5b14d5bd97e",
-   "size": 225833,
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/newyearloader-0.2.0.jar",
+   "sha512": "e22e6f048bab01f2625ec2c3311d48d5844ea4e2155de5c28ec38f3c55f4adacc2989bda76c2535c3e4db02b3a3b47f1a90504132a2d0a8fc552553c31771f2d",
+   "size": 225835,
    "overwrite": true
   },
   {
@@ -294,7 +294,7 @@
   },
   {
    "path": "mods/terroir-fabric-1.2.2-recipe-hotfix.jar",
-   "url": "https://raw.githubusercontent.com/puccoooopapa-droid/vilniamc-pack/main/files/mods/terroir-fabric-1.2.2-recipe-hotfix.jar",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/terroir-fabric-1.2.2-recipe-hotfix.jar",
    "sha512": "ab94760c36948dda8147bf941f589a6d0e53177829fc6774fead9a56bf4c629e0b1f33c254a5b6c41e3537cc746b227452587a9077572e95edda620b58fe4b27",
    "size": 2369107,
    "overwrite": true
@@ -329,7 +329,7 @@
   },
   {
    "path": "options.txt",
-   "url": "https://raw.githubusercontent.com/puccoooopapa-droid/vilniamc-pack/main/files/options.txt",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/options.txt",
    "sha512": "54b97f1b107584311ab5dc81bf0f7673688ce0538c83e2f35c8f399f4586365fb688be3f64ecd3ec6b730410e32881ac28be0de09000ae947053b62a47ab095f",
    "size": 497,
    "overwrite": false
