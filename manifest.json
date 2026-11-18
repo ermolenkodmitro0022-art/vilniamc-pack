@@ -1,10 +1,17 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.18-1732",
+ "version": "2026.11.18-1837",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "files": [
+  {
+   "path": "config/immediatelyfast.json",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/config/immediatelyfast.json",
+   "sha512": "ead85ee2d366811b652deadb67d71675abaf817731294149e92314efce1d443975edae88b95c763626049e234263296e05f6c895565166d3034857b07477425c",
+   "size": 1137,
+   "overwrite": true
+  },
   {
    "path": "mods/AmbientSounds_FABRIC_v6.3.11_mc1.21.1.jar",
    "url": "https://cdn.modrinth.com/data/fM515JnW/versions/54u7eI2t/AmbientSounds_FABRIC_v6.3.11_mc1.21.1.jar",
@@ -90,17 +97,31 @@
    "overwrite": true
   },
   {
-   "path": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar",
-   "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/GBH14HiF/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar",
-   "sha512": "42c7043517889274f2932f257a78d0a67c22f2bebb1385ab4d0ba7936da2163e907d63f22bfeed5126342b568ddf4d7bc576ab6e76401a07d20a4978ba61bf20",
-   "size": 217532,
-   "overwrite": true
-  },
-  {
    "path": "mods/emi-1.1.24+1.21.1+fabric.jar",
    "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/on5GT1qh/emi-1.1.24%2B1.21.1%2Bfabric.jar",
    "sha512": "2680e7b0a93152d4220afdc30a0452c911dc4b5c9ce1db1b7246c21b777bc2a1945fe97c98c09941d31b7478ae357135a1ef51cd3ba92d08dce35202a830b70d",
    "size": 1098223,
+   "overwrite": true
+  },
+  {
+   "path": "mods/emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
+   "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/daqt5qcK/emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
+   "sha512": "c5b7211468e657c321e574f5179547407ad6a4d82c290dc747fde500e2c3b4e8b49bff1ea95da4ff2111e228c86edf72d6ceb084fbb9c2ec01f3d6d7c7424ae0",
+   "size": 863362,
+   "overwrite": true
+  },
+  {
+   "path": "mods/entity_model_features-3.3.12-1.21-fabric.jar",
+   "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/90RfzkYP/entity_model_features-3.3.12-1.21-fabric.jar",
+   "sha512": "0ab99fec33bb27334adf002b911f2834bd5cecc1e9a02acb6b7eda1b5e989cc704b7c35a0ee716fe86d43e4f20b5307a2dd55766b1018c4e1422c863d411c013",
+   "size": 653743,
+   "overwrite": true
+  },
+  {
+   "path": "mods/entity_texture_features-7.2.7-1.21-fabric.jar",
+   "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/AMUABkxD/entity_texture_features-7.2.7-1.21-fabric.jar",
+   "sha512": "a21a652b63aaa56f0fb306ec07d33061f28eca6bf89ce6dc99c37b7efc963adbc98bdada1d0074277e4da6b3eb3c63ac453541bf80ecd5dc142203e3ca7f6219",
+   "size": 805015,
    "overwrite": true
   },
   {
@@ -209,10 +230,17 @@
    "overwrite": true
   },
   {
-   "path": "mods/newyearloader-0.6.0.jar",
-   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/newyearloader-0.6.0.jar",
-   "sha512": "fde917aeb09c3f32c7c4a3630a51fc320bc22bc10d5243cc69b2ee84fecae4aff91a44b32196ee9de281250d3ccae04305fcb4aad34bc4a85da3ded8db3d6208",
-   "size": 271440,
+   "path": "mods/newyearloader-0.7.0.jar",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/newyearloader-0.7.0.jar",
+   "sha512": "d9821a25ef3d0d531bf059eef76e92486c398f3f146bce5f39408063fed78e723afa2fe19c45a3f9395d7c77f1fc8735cf80505e181249187454574279ce8597",
+   "size": 273533,
+   "overwrite": true
+  },
+  {
+   "path": "mods/notenoughanimations-fabric-1.12.7-mc1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/pPdRjl6T/notenoughanimations-fabric-1.12.7-mc1.21.1.jar",
+   "sha512": "6513fe427f09bfef992054880358b6100c5eed8aa5da545680f582b544257c97d8f8381d491eee6fb6fffaaf36ba29094c92e06bcf73afb23bbeb81d43e9e134",
+   "size": 1876209,
    "overwrite": true
   },
   {
@@ -286,6 +314,13 @@
    "overwrite": true
   },
   {
+   "path": "mods/vilnia-content-0.1.0.jar",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/vilnia-content-0.1.0.jar",
+   "sha512": "5ca9d28cc10dbb4eed3c378003fdeb697f96726060108389a621ab52aafcdd46beaf034d0b7b027571a1419f71939aa5743b881dd49db8d25676c2db18437577",
+   "size": 45344,
+   "overwrite": true
+  },
+  {
    "path": "mods/visuality-0.7.7+1.21.jar",
    "url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/dhKbgdIb/visuality-0.7.7%2B1.21.jar",
    "sha512": "793f7164f9caf1b8e2b6b2f9f1327c40179b633217702bf79e16930cc5c548e44e6f0cac4628963fcc9e65cc9d63c4493678840242017c33be92a0e94c880f51",
@@ -319,6 +354,13 @@
    "sha512": "d1b79abfa14360bde7caca5f526c314260503a7c145610f4a12d670535ce822a37e84458e971c7aa47a2749cdfb7e6d4af00ed8ea5a02107a977cc54586c71cd",
    "size": 524,
    "overwrite": false
+  },
+  {
+   "path": "resourcepacks/FreshAnimations_v1.11.2_1.20+.zip",
+   "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/HC1XRKGD/FreshAnimations_v1.11.2_1.20%2B.zip",
+   "sha512": "e64c2fc73d2c61f6814d1223ac2a2bb1dda7ed55edb75efef23449475140a42ef2a490c4789f42e022eca96ffa6b50b63de70a2858fc7b257421b36aab5c10b3",
+   "size": 742790,
+   "overwrite": true
   }
  ]
 }
