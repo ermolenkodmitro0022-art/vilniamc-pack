@@ -1,7 +1,7 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.19-0823",
+ "version": "2026.11.19-1036",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "files": [
@@ -202,6 +202,13 @@
    "overwrite": true
   },
   {
+   "path": "mods/Kiwi-1.21.1-Fabric-15.8.8.jar",
+   "url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/G8gDBRJv/Kiwi-1.21.1-Fabric-15.8.8.jar",
+   "sha512": "ef44c9a97d49e0fd857ca1a8ec9f4d188dbfb7f77bd5b12a380e391c5de2c4d3af3e7758879d5bddb8b3594c610c09dc6f0636d754bf61679f33ed85258ee180",
+   "size": 1557700,
+   "overwrite": true
+  },
+  {
    "path": "mods/MouseTweaks-fabric-mc1.21-2.26.jar",
    "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/ylmBQ38A/MouseTweaks-fabric-mc1.21-2.26.jar",
    "sha512": "1744a48a47aedcbf19a0a93f78473cf0221fc4782852dca7fc02685719174664b4f9d95d353fcfc16902ac3815594511ba6d9ab14391f9b7e25ec9b2e777927a",
@@ -213,6 +220,13 @@
    "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/tRdr8Bg3/Searchables-fabric-1.21.1-1.0.2.jar",
    "sha512": "1d57bd196a1122953a4f80d18af660be7ad791b9264e46666b273172c448df4de9acf2630fae7d196a4da8168c829fad18756c86b2cd3dd1068a0b453d8ec222",
    "size": 79531,
+   "overwrite": true
+  },
+  {
+   "path": "mods/SnowRealMagic-1.21.1-Fabric-12.2.4.jar",
+   "url": "https://cdn.modrinth.com/data/iJNje1E8/versions/2f1PTEnN/SnowRealMagic-1.21.1-Fabric-12.2.4.jar",
+   "sha512": "8404a827fdf492efcb58f27ed171f3c31bf2503680fd5ef0947d692e698abd22232ee1d29d4462d49404929d8549a6529c279dc4abb5f45e335f3c03e3525aaf",
+   "size": 236109,
    "overwrite": true
   },
   {
@@ -370,10 +384,10 @@
    "overwrite": true
   },
   {
-   "path": "mods/newyearloader-0.7.7.jar",
-   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/newyearloader-0.7.7.jar",
-   "sha512": "fa1e5cdbae151003d2d6b34b418c1b1556cba5953d0a46e4174dbccd23290fa2b5631ffd9aadacce19432887f5513c58caa569a7aeae219d054fa7e9d9eeb654",
-   "size": 875585,
+   "path": "mods/newyearloader-0.7.9.jar",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/newyearloader-0.7.9.jar",
+   "sha512": "3a69374cabf6956691a0228937fb12c662b1c3ed25055f3d478332588c3e9627f82bb2a47a466e6a139e6b2820d9bfc71824e7829bf2690d265d3511a25545de",
+   "size": 881998,
    "overwrite": true
   },
   {
@@ -456,8 +470,8 @@
   {
    "path": "mods/vilnia-content-0.1.0.jar",
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/vilnia-content-0.1.0.jar",
-   "sha512": "b689054b719a59026f4232db427ebba38bed14c2708367a2e5c79a214a324d33c61390b639f2d2cf09e701fa7a8f31797aebbbe9e19685ca6927c28e7e2568f1",
-   "size": 166147,
+   "sha512": "f2ea2dfa33fb9aa0faf776f52e2d41c1a2ea603f1e5a4d96f7374d8d38d7f8c2aab55c960e1f8d55c97663dd462323c5a1411b4111ca550c10a5fe1003137952",
+   "size": 278194,
    "overwrite": true
   },
   {
