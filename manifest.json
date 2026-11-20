@@ -1,7 +1,7 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.19-1129",
+ "version": "2026.11.20-1111",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "files": [
@@ -384,10 +384,10 @@
    "overwrite": true
   },
   {
-   "path": "mods/newyearloader-0.8.1.jar",
-   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/newyearloader-0.8.1.jar",
-   "sha512": "3813a2429007d7adaf5920549dd4e74b77cec45d194dc3b7f286d7a77f23eb5987acc48003109024cd1ed578edd4ea914cb1c4a9c6a4e69ad42264bcdf180d73",
-   "size": 883940,
+   "path": "mods/newyearloader-0.9.0.jar",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/newyearloader-0.9.0.jar",
+   "sha512": "989cc437f142944c8d0616c8aa69bef340edb08a10219570bdf4c062821e327769f35e09f70a8baffb6176f3b02d96b5986a50bae86200f285d5fc9cffe56993",
+   "size": 1017493,
    "overwrite": true
   },
   {
@@ -405,10 +405,10 @@
    "overwrite": true
   },
   {
-   "path": "mods/particlerain-4.0.3+1.21.1-fabric.jar",
-   "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/GBivJmD5/particlerain-4.0.3%2B1.21.1-fabric.jar",
-   "sha512": "9b5934f6550055f634a60620ed5230a3cc211b3e3e86876e3b82dbaa7322f700c23dc73516e5c6893b9d45c962e0f25f285501148849b4334007ada56c6da544",
-   "size": 627175,
+   "path": "mods/particlerain-4.0.4+1.21.1-fabric.jar",
+   "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/1kt3PbtY/particlerain-4.0.4%2B1.21.1-fabric.jar",
+   "sha512": "e60c4bd9ec27df6841e7108b8007ac85c3bdb7dd5d265d32f9566e30864559c677986a6c13b456880af45682338c451031bfe89b3bc5c1f045eef3518a6d991f",
+   "size": 630235,
    "overwrite": true
   },
   {
@@ -470,8 +470,8 @@
   {
    "path": "mods/vilnia-content-0.1.0.jar",
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/vilnia-content-0.1.0.jar",
-   "sha512": "7da9e58a374b3346120a7e05782bbcce65b5afd759d21b50bc1f899dd8435eeea62b0a4e6b9f6c64abf91ec688045860be553dd623c6ae5cd007b54e0f372a77",
-   "size": 304075,
+   "sha512": "39f0bab828bbc0c38783aad5dad5da4c148d92abaeb39d98208efa022cec2ce543e054c28990eef6eb10520e5d276f8aa432fe6155a7a33a356feaa1f42d183b",
+   "size": 452476,
    "overwrite": true
   },
   {
