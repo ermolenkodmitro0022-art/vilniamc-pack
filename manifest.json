@@ -1,7 +1,7 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.20-1111",
+ "version": "2026.11.20-1439",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "files": [
@@ -384,10 +384,10 @@
    "overwrite": true
   },
   {
-   "path": "mods/newyearloader-0.9.0.jar",
-   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/newyearloader-0.9.0.jar",
-   "sha512": "989cc437f142944c8d0616c8aa69bef340edb08a10219570bdf4c062821e327769f35e09f70a8baffb6176f3b02d96b5986a50bae86200f285d5fc9cffe56993",
-   "size": 1017493,
+   "path": "mods/newyearloader-0.9.1.jar",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/newyearloader-0.9.1.jar",
+   "sha512": "22ccb73b3613e695b30f91a8611ad7d224703d7141352f9a5eb824ee48bb2411188b49a5ce5f8b66c59816498539851a0f716c5284b95fcdb26c5d0be52e018b",
+   "size": 1045468,
    "overwrite": true
   },
   {
@@ -470,8 +470,8 @@
   {
    "path": "mods/vilnia-content-0.1.0.jar",
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/vilnia-content-0.1.0.jar",
-   "sha512": "39f0bab828bbc0c38783aad5dad5da4c148d92abaeb39d98208efa022cec2ce543e054c28990eef6eb10520e5d276f8aa432fe6155a7a33a356feaa1f42d183b",
-   "size": 452476,
+   "sha512": "bdbffd0f9a64374bfee9e6dd591fd2dac2d68326887fc547316dae285f6327c7aa87180516847207b4b92a5676cb3f92a6dd8b529b8b41054bdf81b01aaaeabf",
+   "size": 492060,
    "overwrite": true
   },
   {
@@ -514,6 +514,20 @@
    "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/HC1XRKGD/FreshAnimations_v1.11.2_1.20%2B.zip",
    "sha512": "e64c2fc73d2c61f6814d1223ac2a2bb1dda7ed55edb75efef23449475140a42ef2a490c4789f42e022eca96ffa6b50b63de70a2858fc7b257421b36aab5c10b3",
    "size": 742790,
+   "overwrite": true
+  },
+  {
+   "path": "shaderpacks/MakeUp-UltraFast-9.6.zip",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/shaderpacks/MakeUp-UltraFast-9.6.zip",
+   "sha512": "fa7af14ac14bd77bc1c5d8abf5243e9f3dae08777272790de62b9f388db2f5383f8b00c61da358a356a43635afb7cab80ea7196ffd3a97e22d3184b76e9f3fd3",
+   "size": 406830,
+   "overwrite": true
+  },
+  {
+   "path": "shaderpacks/Noble-v1.9.9.zip",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/shaderpacks/Noble-v1.9.9.zip",
+   "sha512": "737d87aebd18aa594b43f5f7ea3cbabb88d99de7d9ea2a2abbd493dcc5e8fd80ffa88044fabc746b73a6353db0c443473686f9c48946bc3ba965f0a0b2cd8862",
+   "size": 16823335,
    "overwrite": true
   }
  ]
