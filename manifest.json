@@ -1,7 +1,7 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.21-1012",
+ "version": "2026.11.21-2131",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "files": [
@@ -223,10 +223,10 @@
    "overwrite": true
   },
   {
-   "path": "mods/SnowRealMagic-1.21.1-Fabric-12.2.4.jar",
-   "url": "https://cdn.modrinth.com/data/iJNje1E8/versions/2f1PTEnN/SnowRealMagic-1.21.1-Fabric-12.2.4.jar",
-   "sha512": "8404a827fdf492efcb58f27ed171f3c31bf2503680fd5ef0947d692e698abd22232ee1d29d4462d49404929d8549a6529c279dc4abb5f45e335f3c03e3525aaf",
-   "size": 236109,
+   "path": "mods/SnowRealMagic-1.21.1-Fabric-12.2.8.jar",
+   "url": "https://cdn.modrinth.com/data/iJNje1E8/versions/JU7ckVKa/SnowRealMagic-1.21.1-Fabric-12.2.8.jar",
+   "sha512": "0332f696dc79c52b86dc04c09a0236605fdc56adeccd0f50003621b85896fc67aa2aa57d335c2a5f55eeecf41394362b166988473f0bc0e9136acf8782cda6ec",
+   "size": 240750,
    "overwrite": true
   },
   {
@@ -470,8 +470,8 @@
   {
    "path": "mods/vilnia-content-0.1.0.jar",
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/vilnia-content-0.1.0.jar",
-   "sha512": "d4a36880c987557ee2110607df22555d7190f2b7e0d52b07e0c1ea036ba144dd9032e749894bcbd2e2a41f22188e79052ff43781fb1ffdbbbbe72f0725080c68",
-   "size": 986441,
+   "sha512": "e46bf22fd699c2b881bda7e7f9185d2473a98e4f2cf605c43086e66f73752261b36c10f675dae976a14d51bca1b639ca33d795f02a4f1da0ec780fcad17a4db8",
+   "size": 2186125,
    "overwrite": true
   },
   {
