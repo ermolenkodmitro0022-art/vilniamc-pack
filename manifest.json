@@ -1,12 +1,15 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.22-1406",
+ "version": "2026.11.22-1716",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "news": [
-  "Вікно тіла як інвентар, тіло зникає після повернення речей",
-  "Багаття знову прогорає"
+  "Нова стара книга: як пережити вибух",
+  "Ялинки тепер усюди, і всі різні",
+  "Мутанти — кожен свій",
+  "Консерви, обігрівач і вентиляція тунелем",
+  "Дальність чанків під твій компʼютер"
  ],
  "files": [
   {
@@ -283,10 +286,10 @@
    "overwrite": true
   },
   {
-   "path": "mods/entityculling-fabric-1.12.1-mc1.21.1.jar",
-   "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/ePsqkPkO/entityculling-fabric-1.12.1-mc1.21.1.jar",
-   "sha512": "8b0e2a54a4b08edeb2aaf2dd4d6d20f152f7a88ddc266525f79661b46bfd00638d7ff03a628f258d0f27f2f99728ce1ffc182c0d547a686df7d3544b549d2b9b",
-   "size": 1533262,
+   "path": "mods/entityculling-fabric-1.12.2-mc1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/sbniofKw/entityculling-fabric-1.12.2-mc1.21.1.jar",
+   "sha512": "e88dea7a28acf99b4b7204a5858bf242449e2d614ccbc999a529cc3ba0b3e43c0d0774348ca92d3a1cbb528af8fa7b55f16410013966e02a9b56b82002a37179",
+   "size": 1533920,
    "overwrite": true
   },
   {
@@ -388,10 +391,10 @@
    "overwrite": true
   },
   {
-   "path": "mods/newyearloader-0.9.10.jar",
-   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/newyearloader-0.9.10.jar",
-   "sha512": "09a2ee5e9c9e7fa9ef2b96c70187bc5b7cd93f285466ef6e85641354be68d0afb4e67275820a05f2323ef5295791d39f44e242f2fc224da644d98ecac5f6fc63",
-   "size": 1061638,
+   "path": "mods/newyearloader-0.9.11.jar",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/newyearloader-0.9.11.jar",
+   "sha512": "f9005a25a9c71a0d303e2e6242baeaf7d5dd18f50898095bd8a07b5a193cd3de78c87c79b365ad1d790649fdcd92ead0a68ce07b954868a23470347b12f85865",
+   "size": 1063136,
    "overwrite": true
   },
   {
@@ -474,8 +477,8 @@
   {
    "path": "mods/vilnia-content-0.1.0.jar",
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/vilnia-content-0.1.0.jar",
-   "sha512": "f6c74003cd4062264c683f8f2319011e90ca8841c68b8bd307f60bc17b64ad8e9c51094ccfc00138363b356ae974789e76506b774bd92b9907109959e9d79f06",
-   "size": 2319750,
+   "sha512": "43e12ac0aa2d962414bf6e4b4cdc56a6c31a96b15d4eb39b277f79ab952a54150143aa2b86c4de2a1c8cf4ce78ebc6775431807cf423af4ab8f4177c8766e02a",
+   "size": 2470342,
    "overwrite": true
   },
   {
