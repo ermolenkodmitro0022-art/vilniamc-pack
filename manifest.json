@@ -1,9 +1,13 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.22-1153",
+ "version": "2026.11.22-1229",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
+ "news": [
+  "Ядерний вибух: таймер тривоги, засліплення, хвиля вибиває шибки й двері",
+  "Новий установник: одне вікно, етапи, новини"
+ ],
  "files": [
   {
    "path": "config/immediatelyfast.json",
@@ -384,10 +388,10 @@
    "overwrite": true
   },
   {
-   "path": "mods/newyearloader-0.9.8.jar",
-   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/newyearloader-0.9.8.jar",
-   "sha512": "29933ef63d91ddbb6b216dd757b082538719f1c77420303f8ce6de02bfdc5c56c45d5c6e4161b7847aa1f03dd7521de23ba9c77a4fee72ba059dbc7f43c5fc8a",
-   "size": 1050179,
+   "path": "mods/newyearloader-0.9.9.jar",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/newyearloader-0.9.9.jar",
+   "sha512": "86694c79df2f3ff328d241cf825566d5a6e9845e9ca1baf4578fb72af289c03225e260120dcca5e6a054d8fec8b84d3896f13e707b309c3d3a0e072efd96e107",
+   "size": 1061632,
    "overwrite": true
   },
   {
@@ -470,8 +474,8 @@
   {
    "path": "mods/vilnia-content-0.1.0.jar",
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/vilnia-content-0.1.0.jar",
-   "sha512": "ecf1ee870273141d73976070035774baa3e892b90b3e750f01c7f9b36cb3bcf18ad3b929808dcd8b125c21f6c8620463fec039353a8b3e5bd31f3e1f62dea735",
-   "size": 2268185,
+   "sha512": "a3fb638ff59d8795caebf3e077b40983c64660639352e7ecfb39134362b27797a87a0bd035f96aac61ba162743315b86fbd511fae44ae7cff34a86353c50284a",
+   "size": 2270709,
    "overwrite": true
   },
   {
