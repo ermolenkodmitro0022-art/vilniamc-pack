@@ -1,15 +1,11 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.22-1848",
+ "version": "2026.11.22-1907",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "news": [
-  "Тамбур дезінфекції та розчин перекису",
-  "Нова книга: якщо небо спалахне",
-  "Мутують усі звірі й риба, ліс рудіє",
-  "Більше ведмедів, козлів, лисиць і вовків",
-  "Ялинок менше, і в лісі вони без прикрас"
+  "Зайві ялинки прибрано, у лісі вони без прикрас"
  ],
  "files": [
   {
@@ -477,8 +473,8 @@
   {
    "path": "mods/vilnia-content-0.1.0.jar",
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/vilnia-content-0.1.0.jar",
-   "sha512": "cde03c572e3faf0631b7a30f7853979aaea79d81916a6779f61f5dd5d6fbd812eed9742aa671049d3b02cc925f5101b837d37a27385246968c2133ba2e2df469",
-   "size": 2531607,
+   "sha512": "65662f17bc576512db9ca2cac41f77118494bac5e7669ead3fd24653d8509a6d69094b1a07ad327341cfdd7cf8d4596dd408331071b7bb3ca05200de0d862221",
+   "size": 2532987,
    "overwrite": true
   },
   {
