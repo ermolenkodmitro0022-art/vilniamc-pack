@@ -1,12 +1,12 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.22-1342",
+ "version": "2026.11.22-1406",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "news": [
-  "Новий протигаз: маска, іконка, вигляд крізь скло",
-  "Нова іконка зірки"
+  "Вікно тіла як інвентар, тіло зникає після повернення речей",
+  "Багаття знову прогорає"
  ],
  "files": [
   {
@@ -474,8 +474,8 @@
   {
    "path": "mods/vilnia-content-0.1.0.jar",
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/vilnia-content-0.1.0.jar",
-   "sha512": "7642d594dfb16664d240a1caf4d4ed3b2d04a55bdb4abcefe2b9b6d7c1191c2568b060aebbc915592ae01aeba3547ea6084a9661565498e7c0780299433d190c",
-   "size": 2317347,
+   "sha512": "f6c74003cd4062264c683f8f2319011e90ca8841c68b8bd307f60bc17b64ad8e9c51094ccfc00138363b356ae974789e76506b774bd92b9907109959e9d79f06",
+   "size": 2319750,
    "overwrite": true
   },
   {
