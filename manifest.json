@@ -1,15 +1,11 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.22-1716",
+ "version": "2026.11.22-1748",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "news": [
-  "Нова стара книга: як пережити вибух",
-  "Ялинки тепер усюди, і всі різні",
-  "Мутанти — кожен свій",
-  "Консерви, обігрівач і вентиляція тунелем",
-  "Дальність чанків під твій компʼютер"
+  "Оновлення завантажується, навіть якщо інтернет працює дивно"
  ],
  "files": [
   {
@@ -391,10 +387,10 @@
    "overwrite": true
   },
   {
-   "path": "mods/newyearloader-0.9.11.jar",
-   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/newyearloader-0.9.11.jar",
-   "sha512": "f9005a25a9c71a0d303e2e6242baeaf7d5dd18f50898095bd8a07b5a193cd3de78c87c79b365ad1d790649fdcd92ead0a68ce07b954868a23470347b12f85865",
-   "size": 1063136,
+   "path": "mods/newyearloader-0.9.12.jar",
+   "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/newyearloader-0.9.12.jar",
+   "sha512": "da9932b08297f233c5742d1c4baba6bb8388f272f965f69d6c521a9e8da0f5e88864795d210ae4d854544e31e190c57bbddff236127d9f54bdb14ce4ab2170f3",
+   "size": 1064466,
    "overwrite": true
   },
   {
