@@ -1,14 +1,12 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.22-1329",
+ "version": "2026.11.22-1342",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "news": [
-  "Сховище від радіації: вовна, гермодвері, вентиляція",
-  "Жива температура надворі й у домі",
-  "Ковзани: розгін, анімація, сліди",
-  "Нові іконки"
+  "Новий протигаз: маска, іконка, вигляд крізь скло",
+  "Нова іконка зірки"
  ],
  "files": [
   {
@@ -476,8 +474,8 @@
   {
    "path": "mods/vilnia-content-0.1.0.jar",
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/vilnia-content-0.1.0.jar",
-   "sha512": "c75bdfa8afc67fb6bb3099e82ded7fd135fd111ad9d6ff39f15979f06e0a7567db1a19c041dbe56cb5e6cf6747583c06b627321ec1e81a4bcc9f5efaee9c15fc",
-   "size": 2315357,
+   "sha512": "7642d594dfb16664d240a1caf4d4ed3b2d04a55bdb4abcefe2b9b6d7c1191c2568b060aebbc915592ae01aeba3547ea6084a9661565498e7c0780299433d190c",
+   "size": 2317347,
    "overwrite": true
   },
   {
