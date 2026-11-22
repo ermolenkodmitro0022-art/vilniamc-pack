@@ -1,11 +1,11 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.22-1907",
+ "version": "2026.11.22-2017",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "news": [
-  "Зайві ялинки прибрано, у лісі вони без прикрас"
+  "Страшні звуки — лише під Червоним Місяцем"
  ],
  "files": [
   {
@@ -473,8 +473,8 @@
   {
    "path": "mods/vilnia-content-0.1.0.jar",
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/vilnia-content-0.1.0.jar",
-   "sha512": "65662f17bc576512db9ca2cac41f77118494bac5e7669ead3fd24653d8509a6d69094b1a07ad327341cfdd7cf8d4596dd408331071b7bb3ca05200de0d862221",
-   "size": 2532987,
+   "sha512": "5bac17c079d6f5b6e1f542f08e5e0abc450a24e2c2ac752c83bb45a14f65ac41746f89fbb02606ef68905bcd005a858cd6eee841dd17f61501285278dd4dc430",
+   "size": 2534189,
    "overwrite": true
   },
   {
