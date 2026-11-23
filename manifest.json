@@ -1,13 +1,12 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.23-1548",
+ "version": "2026.11.23-1855",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "news": [
-  "Тепло: криві димарі більше не вистуджують дім",
-  "Високі будинки на 3 поверхи тепер рахуються як дім",
-  "Тепло переходить на сусідні поверхи через люки й двері"
+  "Новий блок: шибер для димаря — закрив, і тепло не виходить",
+  "Не закривай шибер, коли горить вогонь: задихнешся"
  ],
  "files": [
   {
@@ -475,8 +474,8 @@
   {
    "path": "mods/vilnia-content-0.1.0.jar",
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/vilnia-content-0.1.0.jar",
-   "sha512": "ae795ba434f915b9dfac93b6585dfd6613d0c405e3b4683abb9b7e91faa6002c0ead1c02110c9067c118bcacc01d3920c832bfc20633a4e03d5be4b861a16259",
-   "size": 2535149,
+   "sha512": "bd8d915310dbd4e78e35f29f0967efdb5a24dfe05d6c3a6e9b396e256c15800c53b2e31379474d923b49a570c6a50c62dd16bcc9036c86ae85bc23d01876caee",
+   "size": 2541458,
    "overwrite": true
   },
   {
