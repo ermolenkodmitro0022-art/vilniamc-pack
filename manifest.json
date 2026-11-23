@@ -1,11 +1,13 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.22-2017",
+ "version": "2026.11.23-1548",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "news": [
-  "Страшні звуки — лише під Червоним Місяцем"
+  "Тепло: криві димарі більше не вистуджують дім",
+  "Високі будинки на 3 поверхи тепер рахуються як дім",
+  "Тепло переходить на сусідні поверхи через люки й двері"
  ],
  "files": [
   {
@@ -473,8 +475,8 @@
   {
    "path": "mods/vilnia-content-0.1.0.jar",
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/vilnia-content-0.1.0.jar",
-   "sha512": "5bac17c079d6f5b6e1f542f08e5e0abc450a24e2c2ac752c83bb45a14f65ac41746f89fbb02606ef68905bcd005a858cd6eee841dd17f61501285278dd4dc430",
-   "size": 2534189,
+   "sha512": "ae795ba434f915b9dfac93b6585dfd6613d0c405e3b4683abb9b7e91faa6002c0ead1c02110c9067c118bcacc01d3920c832bfc20633a4e03d5be4b861a16259",
+   "size": 2535149,
    "overwrite": true
   },
   {
