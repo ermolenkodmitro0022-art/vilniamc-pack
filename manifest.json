@@ -1,12 +1,12 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.24-2208",
+ "version": "2026.11.24-2218",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "news": [
   "news",
-  "Кайданки одразу, без підбивання. Ланцюг чіпляється. Зняти — Shift+ПКМ порожньою рукою. Бранці не горять на сонці"
+  "Нові моделі розпилювача і вентилятора. Речі після смерті знову складаються в стопки"
  ],
  "files": [
   {
@@ -474,8 +474,8 @@
   {
    "path": "mods/vilnia-content-0.1.0.jar",
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/vilnia-content-0.1.0.jar",
-   "sha512": "767096a5746b07af37e70f063b651467a499c6be90570976c3d78942a26ab201c1ca92a76c0a20c7e25321c9d95ec715b36c305f038cf9ccc3534dc2ea2b97ff",
-   "size": 2845543,
+   "sha512": "1c1162a5b4fc05f06276d392a0f35082f2c444527da29a00bdc5efd21b8fe2a553bea9f9d176515386ce21b30fdd7114cf64517f9058f9f2342ba8056039ccf2",
+   "size": 2874384,
    "overwrite": true
   },
   {
