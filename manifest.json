@@ -1,12 +1,12 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.24-2155",
+ "version": "2026.11.24-2208",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "news": [
   "news",
-  "Кайданки на руках, ланцюг не рветься, бранців тягнеш плавно"
+  "Кайданки одразу, без підбивання. Ланцюг чіпляється. Зняти — Shift+ПКМ порожньою рукою. Бранці не горять на сонці"
  ],
  "files": [
   {
@@ -474,8 +474,8 @@
   {
    "path": "mods/vilnia-content-0.1.0.jar",
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/vilnia-content-0.1.0.jar",
-   "sha512": "7df98a86e4924d22866c942e337aa55e1bab717b29bfbaac160f729cd0168c8d48c0d5b205b0cb2960f16f175c0afed8372ae9c0e9e294506ff4d15d74ec7a4e",
-   "size": 2845482,
+   "sha512": "767096a5746b07af37e70f063b651467a499c6be90570976c3d78942a26ab201c1ca92a76c0a20c7e25321c9d95ec715b36c305f038cf9ccc3534dc2ea2b97ff",
+   "size": 2845543,
    "overwrite": true
   },
   {
