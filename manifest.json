@@ -1,12 +1,12 @@
 {
  "format": 1,
  "pack": "VilniaMC",
- "version": "2026.11.24-2218",
+ "version": "2026.11.24-2226",
  "minecraft": "1.21.1",
  "minLoaderVersion": "0.1.0",
  "news": [
   "news",
-  "Нові моделі розпилювача і вентилятора. Речі після смерті знову складаються в стопки"
+  "Анімації бранців: смикаються, вириваються, мотають головою. Ланцюг тепер чіпляється (після рестарту сервера)"
  ],
  "files": [
   {
@@ -474,8 +474,8 @@
   {
    "path": "mods/vilnia-content-0.1.0.jar",
    "url": "https://raw.githubusercontent.com/ermolenkodmitro0022-art/vilniamc-pack/main/files/mods/vilnia-content-0.1.0.jar",
-   "sha512": "1c1162a5b4fc05f06276d392a0f35082f2c444527da29a00bdc5efd21b8fe2a553bea9f9d176515386ce21b30fdd7114cf64517f9058f9f2342ba8056039ccf2",
-   "size": 2874384,
+   "sha512": "69c87490bcc36d95dc7e8cf0e8ebe7ddff436134567cee4646ad67700baae2d3687eebcbc6924ef3cb946882578013a2ee6a5f9a136cdc0dadcf77eece65e2de",
+   "size": 2879346,
    "overwrite": true
   },
   {
